@@ -32,7 +32,7 @@
 <h4>I love playing Chess, and I love computers</h4>
 ###
 
-<p align="left">I'm ... from ....Gemini Code.<br><br>- 🔭 I’m working as ...GitHub Developer Program.<br>- 📚 I'm currently learning ...Google Cloud , and Gemini Code. <br>- ⚡ In my free time I ...I study chess puzzles.</p>
+<p align="left">I'm ... from ....R.I<br><br>- 🔭 I’m working as ...GitHub Developer Program.<br>- 📚 I'm currently learning ...Google Cloud , and Gemini Code. <br>- ⚡ In my free time I ...I study chess puzzles.</p>
 
 ###
 
