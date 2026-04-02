@@ -29,7 +29,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
-<h4>I love playing Chess, and I love compputers</h4>
+<h4>I love playing Chess, and I love computers</h4>
 ###
 
 <p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
